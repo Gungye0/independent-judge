@@ -18,7 +18,7 @@ mkdir -p ~/.claude/skills && cp -r independent-judge ~/.claude/skills/independen
 또는 git clone:
 
 ```bash
-git clone https://github.com/<사용자>/independent-judge.git ~/.claude/skills/independent-judge
+git clone https://github.com/Gungye0/independent-judge.git ~/.claude/skills/independent-judge
 ```
 
 프로젝트 단위로 쓰려면 `~/.claude/skills/` 대신 프로젝트의 `.claude/skills/`에 넣습니다.
